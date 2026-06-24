@@ -6,7 +6,7 @@
 
 ## 🇰🇷 한국어
 
-my-diary에 오신 분들 환영합니다!  
+my-diary에 오신 분들 환영합니다  
 이곳은 저의 일기를 기록하고 저장하는 공간입니다.  
 
 그냥 대한민국의 평범한 학생의 일기니 재미로만 봐주세요.
@@ -18,7 +18,7 @@ my-diary에 오신 분들 환영합니다!
 
 ## 🇺🇸 English
 
-Welcome to my-diary!  
+Welcome to my-diary  
 This is a space where I record and store my daily life.  
 
 It's just a diary of an ordinary student in South Korea, so please enjoy it for fun.  
