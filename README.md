@@ -25,3 +25,13 @@ It's just a diary of an ordinary student in South Korea, so please enjoy it for 
 (⚠️ Please note that it may contain strong language!)
 
 **[Read English Diary](./posts/en/)**
+
+
+
+
+
+
+---
+## 🔒 License
+Copyright © 2026 kyulio. All rights reserved.  
+이 일기장의 모든 글과 내용에 대한 저작권은 작성자(kyulio)에게 있으며, 무단 복제, 배포 및 상업적 이용을 금지합니다.
